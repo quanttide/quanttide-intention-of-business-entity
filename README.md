@@ -1,1 +1,1 @@
-# QuantTide Vision of Business Entity
+# 量潮科技工作意图
