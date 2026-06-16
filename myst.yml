@@ -1,11 +1,10 @@
 version: 1
 project:
-  title: 量潮科技业务愿景
-  description: 量潮科技各业务线的产品愿景与规划
+  title: 量潮科技工作意图
+  description: 量潮科技各业务和职能的意图
   keywords:
     - 量潮科技
-    - 愿景
-    - 规划
+    - 工作意图
   authors:
     - name: 量潮科技
   license: CC-BY-4.0
