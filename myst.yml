@@ -12,12 +12,23 @@ project:
     - CHANGELOG.md
   toc:
     - file: README.md
+    - title: 量潮科技管理
+      children:
+        - file: qtadmin/index.md
+        - file: qtadmin/strategy.md
+        - file: qtadmin/delib.md
+    - title: 量潮数据
+      children:
+        - file: qtdata/index.md
     - title: 量潮课堂
       children:
         - file: qtclass/index.md
         - file: qtclass/strandard.md
     - title: 量潮云
       children:
+        - file: qtcloud/index.md
         - file: qtcloud/qtcloud-asset.md
+        - file: qtcloud/qtcloud-code.md
+    - file: second_brain.md
 site:
   template: book-theme
