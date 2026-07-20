@@ -29,6 +29,5 @@ project:
         - file: qtcloud/index.md
         - file: qtcloud/qtcloud-asset.md
         - file: qtcloud/qtcloud-code.md
-    - file: second_brain.md
 site:
   template: book-theme
