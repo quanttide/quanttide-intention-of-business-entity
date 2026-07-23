@@ -26,8 +26,7 @@ project:
         - file: qtclass/strandard.md
     - title: 量潮云
       children:
-        - file: qtcloud/index.md
         - file: qtcloud/qtcloud-asset.md
-        - file: qtcloud/qtcloud-code.md
+        - file: qtcloud/qtcloud-execute.md
 site:
   template: book-theme
