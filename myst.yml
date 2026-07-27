@@ -19,7 +19,7 @@ project:
         - file: qtadmin/delib.md
     - title: 量潮数据
       children:
-        - file: qtdata/index.md
+        - file: qtdata/product.md
     - title: 量潮课堂
       children:
         - file: qtclass/index.md
