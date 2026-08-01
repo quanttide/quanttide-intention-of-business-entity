@@ -36,6 +36,7 @@ project:
         - file: qtclass/curriculum.md
     - title: 量潮云
       children:
+        - file: qtcloud/qtcloud-meta.md
         - file: qtcloud/qtcloud-asset.md
         - file: qtcloud/qtcloud-execute.md
         - file: qtcloud/qtcloud-support.md
