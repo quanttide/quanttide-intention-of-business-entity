@@ -29,7 +29,7 @@ project:
       children:
         - file: qtclass/index.md
         - file: qtclass/self-learning-platform.md
-        - file: qtclass/strandard.md
+        - file: qtclass/curriculum.md
     - title: 量潮云
       children:
         - file: qtcloud/qtcloud-asset.md
