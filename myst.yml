@@ -28,6 +28,7 @@ project:
     - title: 量潮课堂
       children:
         - file: qtclass/index.md
+        - file: qtclass/self-learning-platform.md
         - file: qtclass/strandard.md
     - title: 量潮云
       children:
