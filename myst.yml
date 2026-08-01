@@ -12,6 +12,10 @@ project:
     - CHANGELOG.md
   toc:
     - file: README.md
+    - title: 转型叙事
+      children:
+        - file: intro/from-project-to-product.md
+        - file: intro/from-heart-to-designer.md
     - title: 量潮科技管理
       children:
         - file: qtadmin/index.md
