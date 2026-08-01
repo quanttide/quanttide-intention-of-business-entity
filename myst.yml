@@ -40,5 +40,6 @@ project:
         - file: qtcloud/qtcloud-execute.md
         - file: qtcloud/qtcloud-support.md
         - file: qtcloud/qtcloud-innovate.md
+        - file: qtcloud/qtcloud-write.md
 site:
   template: book-theme
