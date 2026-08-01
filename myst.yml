@@ -41,5 +41,8 @@ project:
         - file: qtcloud/qtcloud-support.md
         - file: qtcloud/qtcloud-innovate.md
         - file: qtcloud/qtcloud-write.md
+    - title: 量潮招聘
+      children:
+        - file: qtrecurit/index.md
 site:
   template: book-theme
