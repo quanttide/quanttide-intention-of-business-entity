@@ -15,6 +15,7 @@ project:
     - title: 量潮科技管理
       children:
         - file: qtadmin/index.md
+        - file: qtadmin/asset.md
         - file: qtadmin/strategy.md
         - file: qtadmin/delib.md
     - title: 量潮数据
@@ -28,5 +29,6 @@ project:
       children:
         - file: qtcloud/qtcloud-asset.md
         - file: qtcloud/qtcloud-execute.md
+        - file: qtcloud/qtcloud-support.md
 site:
   template: book-theme
