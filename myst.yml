@@ -14,6 +14,7 @@ project:
     - file: README.md
     - title: 转型叙事
       children:
+        - file: intro/index.md
         - file: intro/from-project-to-product.md
         - file: intro/from-heart-to-designer.md
     - title: 量潮科技管理
@@ -34,8 +35,10 @@ project:
         - file: qtclass/index.md
         - file: qtclass/self-learning-platform.md
         - file: qtclass/curriculum.md
+        - file: qtclass/growth.md
     - title: 量潮云
       children:
+        - file: qtcloud/qtcloud-goal.md
         - file: qtcloud/qtcloud-meta.md
         - file: qtcloud/qtcloud-asset.md
         - file: qtcloud/qtcloud-execute.md
