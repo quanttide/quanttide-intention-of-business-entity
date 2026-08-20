@@ -51,5 +51,8 @@ project:
     - title: 量潮众包
       children:
         - file: qtcrowd/index.md
+    - title: 量潮开源
+      children:
+        - file: qtopen/index.md
 site:
   template: book-theme

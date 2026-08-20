@@ -18,6 +18,7 @@ data/intention/
 ├── qtconsult/      # 量潮咨询
 ├── qtcrowd/        # 量潮众包
 ├── qtdata/         # 量潮数据
+├── qtopen/         # 量潮开源
 ├── qtrecurit/      # 量潮招聘
 └── intro/          # 总述
 ```
