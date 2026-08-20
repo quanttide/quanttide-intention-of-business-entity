@@ -54,5 +54,11 @@ project:
     - title: 量潮开源
       children:
         - file: qtopen/index.md
+    - title: 量潮产品
+      children:
+        - file: qtproduct/index.md
+    - title: 量潮商务
+      children:
+        - file: qtbusiness/index.md
 site:
   template: book-theme

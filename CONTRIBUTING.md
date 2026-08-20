@@ -13,12 +13,14 @@ data/intention/
 ├── execute/        # 执行环节主题
 ├── strategy/       # 战略主题
 ├── qtadmin/        # 量潮管理后台
+├── qtbusiness/     # 量潮商务
 ├── qtclass/        # 量潮课堂
 ├── qtcloud/        # 量潮云
 ├── qtconsult/      # 量潮咨询
 ├── qtcrowd/        # 量潮众包
 ├── qtdata/         # 量潮数据
 ├── qtopen/         # 量潮开源
+├── qtproduct/      # 量潮产品
 ├── qtrecurit/      # 量潮招聘
 └── intro/          # 总述
 ```
