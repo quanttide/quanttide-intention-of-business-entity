@@ -15,7 +15,7 @@
 按治理主题组织，每个主题一个文件夹，`index.md` 为入口：
 
 - 主题：asset、delib、execute、strategy
-- 业务线：qtadmin、qtbusiness、qtclass、qtcloud、qtconsult、qtcrowd、qtdata、qtopen、qtproduct、qtrecurit
+- 业务线：qtacademics、qtadmin、qtbusiness、qtclass、qtcloud、qtconsult、qtcrowd、qtdata、qtopen、qtproduct、qtrecurit
 - 总述：intro
 
 ## 工作流程

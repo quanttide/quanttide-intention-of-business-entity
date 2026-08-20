@@ -12,6 +12,7 @@ data/intention/
 ├── delib/          # 议事主题
 ├── execute/        # 执行环节主题
 ├── strategy/       # 战略主题
+├── qtacademics/    # 量潮学术
 ├── qtadmin/        # 量潮管理后台
 ├── qtbusiness/     # 量潮商务
 ├── qtclass/        # 量潮课堂

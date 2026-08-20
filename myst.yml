@@ -60,5 +60,8 @@ project:
     - title: 量潮商务
       children:
         - file: qtbusiness/index.md
+    - title: 量潮学术
+      children:
+        - file: qtacademics/index.md
 site:
   template: book-theme
