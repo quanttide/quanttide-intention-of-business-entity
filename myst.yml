@@ -48,5 +48,8 @@ project:
     - title: 量潮招聘
       children:
         - file: qtrecurit/index.md
+    - title: 量潮众包
+      children:
+        - file: qtcrowd/index.md
 site:
   template: book-theme

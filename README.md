@@ -16,6 +16,7 @@ data/intention/
 ├── qtclass/        # 量潮课堂
 ├── qtcloud/        # 量潮云
 ├── qtconsult/      # 量潮咨询
+├── qtcrowd/        # 量潮众包
 ├── qtdata/         # 量潮数据
 ├── qtrecurit/      # 量潮招聘
 └── intro/          # 总述
