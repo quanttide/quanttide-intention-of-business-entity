@@ -14,6 +14,7 @@ data/intention/
 ├── strategy/       # 战略主题
 ├── qtacademics/    # 量潮学术
 ├── qtadmin/        # 量潮管理后台
+├── qtalliance/     # 量潮创新联盟
 ├── qtbusiness/     # 量潮商务
 ├── qtclass/        # 量潮课堂
 ├── qtcloud/        # 量潮云

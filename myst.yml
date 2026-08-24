@@ -63,5 +63,8 @@ project:
     - title: 量潮学术
       children:
         - file: qtacademics/index.md
+    - title: 量潮创新联盟
+      children:
+        - file: qtalliance/index.md
 site:
   template: book-theme
