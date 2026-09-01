@@ -42,7 +42,6 @@ project:
         - file: qtcloud/qtcloud-meta.md
         - file: qtcloud/qtcloud-asset.md
         - file: qtcloud/qtcloud-execute.md
-        - file: qtcloud/qtcloud-support.md
         - file: qtcloud/qtcloud-innovate.md
         - file: qtcloud/qtcloud-write.md
     - title: 量潮招聘
