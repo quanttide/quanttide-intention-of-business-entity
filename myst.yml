@@ -23,11 +23,14 @@ project:
         - file: qtconsult/index.md
     - title: 量潮数据
       children:
+        - file: qtdata/index.md
         - file: qtdata/product.md
         - file: qtdata/customer.md
+        - file: qtdata/persona.md
         - file: qtdata/connect.md
         - file: qtdata/dataops.md
         - file: qtdata/growth.md
+        - file: qtdata/business.md
     - title: 量潮课堂
       children:
         - file: qtclass/index.md

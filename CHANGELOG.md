@@ -1,5 +1,17 @@
 # Changelog
 
+## [Unreleased]
+
+### Added
+
+- qtdata/index.md：量潮数据经营现状（迁入自教程仓库 tutorial/qtdata/index.md）
+- qtdata/business.md：量潮数据商务拓展（迁入自 tutorial/qtdata/business.md）
+- qtdata/persona.md：客户画像（迁入自 tutorial/qtdata/persona.md）
+
+### Changed
+
+- myst.yml：量潮数据目录注册 index.md、persona.md、business.md
+
 ## [1.0.0] - 2026-09-24
 
 ### Changed
