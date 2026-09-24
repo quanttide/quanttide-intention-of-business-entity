@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.0] - 2026-09-24
+
+### Changed
+
+- 意图库按归属规则筛选：领域级意图下沉至 `domains/quanttide-*` 领域仓库，公司编排级意图留库
+- 下沉 8 件：delib、asset、strategy → 对应领域；qtcloud-execute/write/crowd/innovate/meta/asset → 对应云领域；qtcrowd 与 qtcloud-crowd 合并为 `quanttide-crowd` 的 qtcrowd.md
+- 清理 qtcloud-execute 对话体残留，压缩为纲领式表述
+- qtclass 四件去重：商业模式、课堂替代招聘各收敛为一处
+- 同步 README、CONTRIBUTING、AGENTS、myst.yml 结构说明
+
+### Removed
+
+- 归档至 data/archive/intention/：qtopen、qtproduct、qtbusiness、qtacademics、qtalliance（黄页五件，模板占位无独立意图）、qtrecurit（招聘已并入课堂）
+
 ## [0.9.0] - 2026-08-20
 
 ### Added

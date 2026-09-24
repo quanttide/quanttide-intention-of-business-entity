@@ -14,9 +14,10 @@
 
 按治理主题组织，每个主题一个文件夹，`index.md` 为入口：
 
-- 主题：asset、delib、execute、strategy
-- 业务线：qtacademics、qtadmin、qtalliance、qtbusiness、qtclass、qtcloud、qtconsult、qtcrowd、qtdata、qtopen、qtproduct、qtrecurit
 - 总述：intro
+- 公司级：qtadmin、qtconsult、qtdata、qtclass、qtcloud
+
+归属规则：领域级意图归 `domains/quanttide-*` 仓库的 `data/intention/`；公司编排级意图（版图、跨领域总纲、活跃业务线）留本库。失去活性的意图归档至 `data/archive/intention/`，不直接删除。
 
 ## 工作流程
 

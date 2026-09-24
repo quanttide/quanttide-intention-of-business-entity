@@ -8,24 +8,15 @@
 
 ```
 data/intention/
-├── asset/          # 资产主题
-├── delib/          # 议事主题
-├── execute/        # 执行环节主题
-├── strategy/       # 战略主题
-├── qtacademics/    # 量潮学术
+├── intro/          # 总述：业务版图与转型叙事
 ├── qtadmin/        # 量潮管理后台
-├── qtalliance/     # 量潮创新联盟
-├── qtbusiness/     # 量潮商务
 ├── qtclass/        # 量潮课堂
-├── qtcloud/        # 量潮云
+├── qtcloud/        # 量潮云（体系总纲）
 ├── qtconsult/      # 量潮咨询
-├── qtcrowd/        # 量潮众包
-├── qtdata/         # 量潮数据
-├── qtopen/         # 量潮开源
-├── qtproduct/      # 量潮产品
-├── qtrecurit/      # 量潮招聘
-└── intro/          # 总述
+└── qtdata/         # 量潮数据
 ```
+
+领域级意图（议事、资产、战略、执行、写作、众包、创新、元工程）已下沉至 `domains/quanttide-*` 仓库的 `data/intention/`；失去活性的意图（黄页五件、招聘）归档至 `data/archive/intention/`。
 
 ## 关联档案
 

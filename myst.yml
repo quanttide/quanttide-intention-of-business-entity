@@ -20,9 +20,7 @@ project:
     - title: 量潮科技管理
       children:
         - file: qtadmin/index.md
-        - file: qtadmin/asset.md
-        - file: qtadmin/strategy.md
-        - file: qtadmin/delib.md
+        - file: qtconsult/index.md
     - title: 量潮数据
       children:
         - file: qtdata/product.md
@@ -38,32 +36,7 @@ project:
         - file: qtclass/growth.md
     - title: 量潮云
       children:
-        - file: qtcloud/qtcloud-goal.md
-        - file: qtcloud/qtcloud-meta.md
-        - file: qtcloud/qtcloud-asset.md
-        - file: qtcloud/qtcloud-execute.md
-        - file: qtcloud/qtcloud-innovate.md
-        - file: qtcloud/qtcloud-write.md
-    - title: 量潮招聘
-      children:
-        - file: qtrecurit/index.md
-    - title: 量潮众包
-      children:
-        - file: qtcrowd/index.md
-    - title: 量潮开源
-      children:
-        - file: qtopen/index.md
-    - title: 量潮产品
-      children:
-        - file: qtproduct/index.md
-    - title: 量潮商务
-      children:
-        - file: qtbusiness/index.md
-    - title: 量潮学术
-      children:
-        - file: qtacademics/index.md
-    - title: 量潮创新联盟
-      children:
-        - file: qtalliance/index.md
+        - file: qtcloud/index.md
+
 site:
   template: book-theme
