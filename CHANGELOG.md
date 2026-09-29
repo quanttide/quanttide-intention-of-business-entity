@@ -10,6 +10,7 @@
 
 ### Changed
 
+- `qtconsult/index.md`：补「核心目的」——降本增效，把企业咨询做成白菜价（迁入自知识工作语境）
 - myst.yml：量潮数据目录注册 index.md、persona.md、business.md
 
 ## [1.0.0] - 2026-09-24
