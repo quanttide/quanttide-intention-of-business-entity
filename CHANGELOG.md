@@ -1,97 +1,23 @@
 # Changelog
 
-## [Unreleased]
+## [0.3.1] - 2026-09-29
 
 ### Added
 
-- qtdata/index.md：量潮数据经营现状（迁入自教程仓库 tutorial/qtdata/index.md）
-- qtdata/business.md：量潮数据商务拓展（迁入自 tutorial/qtdata/business.md）
-- qtdata/persona.md：客户画像（迁入自 tutorial/qtdata/persona.md）
+- qtdata 三篇：量潮数据经营现状（index.md）、商务拓展（business.md）、客户画像（persona.md）
+- qtclass、qtcloud 意图总述（index.md）
+- 意图库维护规范（README、CONTRIBUTING、AGENTS）与工作意图上线部署工作流
 
 ### Changed
 
-- `qtconsult/index.md`：补「核心目的」——降本增效，把企业咨询做成白菜价（迁入自知识工作语境）
-- myst.yml：量潮数据目录注册 index.md、persona.md、business.md
-
-## [1.0.0] - 2026-09-24
-
-### Changed
-
-- 意图库按归属规则筛选：领域级意图下沉至 `domains/quanttide-*` 领域仓库，公司编排级意图留库
-- 下沉 8 件：delib、asset、strategy → 对应领域；qtcloud-execute/write/crowd/innovate/meta/asset → 对应云领域；qtcrowd 与 qtcloud-crowd 合并为 `quanttide-crowd` 的 qtcrowd.md
-- 清理 qtcloud-execute 对话体残留，压缩为纲领式表述
-- qtclass 四件去重：商业模式、课堂替代招聘各收敛为一处
-- 同步 README、CONTRIBUTING、AGENTS、myst.yml 结构说明
+- 意图库按归属规则收敛：领域级意图下沉至对应领域意图库，公司层只保留编排级意图
+- 精简 qtadmin 意图，更新 qtclass、intro 与 myst.yml 目录
 
 ### Removed
 
-- 归档至 data/archive/intention/：qtopen、qtproduct、qtbusiness、qtacademics、qtalliance（黄页五件，模板占位无独立意图）、qtrecurit（招聘已并入课堂）
-
-## [0.9.0] - 2026-08-20
-
-### Added
-
-- 新增量潮创新联盟工作意图（qtalliance/index.md）：联盟官网——介绍量潮的盟友们，可见性系列（代码→产品→服务→研究→盟友）的一环
-- 业务版图登记量潮创新联盟业务线：信用徽章，被量潮介绍即被验证
-
-### Changed
-
-- 更新 myst.yml 目录结构（新增量潮创新联盟章节）
-
-## [0.8.0] - 2026-08-20
-
-### Added
-
-- 新增量潮学术工作意图（qtacademics/index.md）：学术黄页——展示学者朋友们的论文、研究项目与学术成果，与 qtdata 的科研服务呼应
-- 业务版图登记量潮学术业务线：可见性系列（代码→产品→服务→研究）的一环
-
-### Changed
-
-- 更新 myst.yml 目录结构（新增量潮学术章节）
-
-## [0.7.0] - 2026-08-20
-
-### Added
-
-- 新增量潮商务工作意图（qtbusiness/index.md）：服务黄页——展示没有产品形态的定制服务与解决方案，与 qtproduct 构成产品与服务双黄页
-- 业务版图登记量潮商务业务线：服务是量潮的基本盘，解决方案是项目案例的沉淀形态
-
-### Changed
-
-- 更新 myst.yml 目录结构（新增量潮商务章节）
-
-## [0.6.0] - 2026-08-20
-
-### Added
-
-- 新增量潮产品工作意图（qtproduct/index.md）：产品黄页，对标 Product Hunt 的产品发布与发现平台——收录量潮产品与开发者朋友的产品，可见性即资产
-- 业务版图登记量潮产品业务线：与 qtopen 呼应，开源连接让项目被看见、产品黄页让产品被看见
-
-### Changed
-
-- 更新 myst.yml 目录结构（新增量潮产品章节）
-
-## [0.5.0] - 2026-08-20
-
-### Added
-
-- 新增量潮开源工作意图（qtopen/index.md）：开源连接平台——量潮与市场开源体系融合打通（标准互通、贡献互通、依赖互通、人才互通）
-- 业务版图登记量潮开源业务线：与量潮云配对，云是后台生产、qtopen 是开源连接前台
-
-### Changed
-
-- 更新 myst.yml 目录结构（新增量潮开源章节）
-
-## [0.4.0] - 2026-08-20
-
-### Added
-
-- 新增量潮众包工作意图（qtcrowd/index.md）：通用双边市场，标准交易定位——与一品威客式任务撮合市场的五维差异化与红线；协同机制：用 qtcrowd 给 qtdata 筛选导流，执行方达标后进入 qtdata 认证供应商池
-- 业务版图登记量潮众包业务线：通用市场筛选、垂直业务变现
-
-### Changed
-
-- 更新 myst.yml 目录结构（新增量潮众包章节）
+- qtcloud 各云意图（asset/execute/goal/innovate/meta/support/write）：下沉至对应领域意图库，归并为 qtcloud/index.md
+- qtrecurit/index.md、qtadmin/asset.md、qtadmin/delib.md、qtadmin/strategy.md：下沉或归档
+- qtconsult/index.md 的「目的、方法、问题」：迁出至教程仓库
 
 ## [0.3.0] - 2026-08-03
 
