@@ -2,9 +2,15 @@
 
 ## [Unreleased]
 
+### Added
+
+- index.md：仓库介绍页面（章节地图、从哪读起、本书边界、相关文献），站点首页
+
 ### Changed
 
 - intro/index.md 合并近期思考：新增「转型主线」「收敛」两节；业务线三处改写（课堂的客户是企业、招聘考核承担验真职能、咨询转为客户视角）；双引擎、产品与规则的分工、统一目标补入显性化
+- README.md 减为仓库说明（内容导航移交 index.md）
+- myst.yml 首项改为 index.md；补注册 qtconsult 的 product/studio.md 与 project/self.md
 
 ## [0.3.1] - 2026-09-29
 

@@ -11,7 +11,7 @@ project:
   exclude:
     - CHANGELOG.md
   toc:
-    - file: README.md
+    - file: index.md
     - title: 转型叙事
       children:
         - file: intro/index.md
@@ -21,6 +21,8 @@ project:
       children:
         - file: qtadmin/index.md
         - file: qtconsult/index.md
+        - file: qtconsult/product/studio.md
+        - file: qtconsult/project/self.md
     - title: 量潮数据
       children:
         - file: qtdata/index.md
