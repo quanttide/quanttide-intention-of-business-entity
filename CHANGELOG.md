@@ -4,10 +4,13 @@
 
 ### Added
 
+- qtclass/business.md：量潮课堂商业化意图——三条产品线（课程交付/教研/认证）、三个付费端（G 校企合作/B 企业/C 个人）、增长节奏与边界（不做什么）
 - index.md：仓库介绍页面（章节地图、从哪读起、本书边界、相关文献），站点首页
 
 ### Changed
 
+- qtclass/index.md：双云表述后补阶段性现状（仓内自持）与商业化篇章指向
+- qtclass/growth.md：补付费与增长的分工——增长管获客、business.md 管变现
 - intro/index.md 合并近期思考：新增「转型主线」「收敛」两节；业务线三处改写（课堂的客户是企业、招聘考核承担验真职能、咨询转为客户视角）；双引擎、产品与规则的分工、统一目标补入显性化
 - README.md 减为仓库说明（内容导航移交 index.md）
 - myst.yml 首项改为 index.md；补注册 qtconsult 的 product/studio.md 与 project/self.md
