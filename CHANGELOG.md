@@ -9,6 +9,7 @@
 - index.md：仓库介绍页面（章节地图、从哪读起、本书边界、相关文献），站点首页
 
 ### Changed
+- 加深三篇原文（2026-11-02）挂入收敛立旗：from-project-to-product 文末「收敛：答案的下一层」、from-heart-to-designer 结语前「从一个设计者到众多设计者」、intro/index 统一目标补立旗行；均互链 converge-to-tech-productivity
 
 - qtclass/index.md：双云表述后补阶段性现状（仓内自持）与商业化篇章指向
 - qtclass/growth.md：补付费与增长的分工——增长管获客、business.md 管变现
