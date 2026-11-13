@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- qtclass/product.md：产品定位（AI 原生的产教融合众包生态）、目标用户、三级火箭功能架构（site/lite/studio）、AI 原生创新点——CEO办公室 2026-11-13 讨论定稿，注册进 `myst.yml` toc
 - 新增 intro/converge-to-tech-productivity.md：立旗（2026-11-02）——所有岗位收敛到技术的生产力水平，从内到外客户收敛向我们的水平；要什么/为什么两节，机制细节归洞察库
 
 - qtclass/business.md：量潮课堂商业化意图——三条产品线（课程交付/教研/认证）、增长节奏与边界（不做什么）；叙事体，含定价转身的判断。三个付费端的对外口径归宣传册 qtclass/business.md，本篇只留内部判断

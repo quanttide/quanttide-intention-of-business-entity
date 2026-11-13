@@ -36,6 +36,7 @@ project:
     - title: 量潮课堂
       children:
         - file: qtclass/index.md
+        - file: qtclass/product.md
         - file: qtclass/self-learning-platform.md
         - file: qtclass/curriculum.md
         - file: qtclass/growth.md
