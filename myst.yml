@@ -41,6 +41,7 @@ project:
         - file: qtclass/curriculum.md
         - file: qtclass/growth.md
         - file: qtclass/business.md
+        - file: qtclass/public.md
     - title: 量潮云
       children:
         - file: qtcloud/index.md

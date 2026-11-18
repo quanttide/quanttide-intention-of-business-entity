@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### Added
+- qtclass/public.md：社会招生（C 端 / public）意图——三种业务模式并立、教学梯队从学员中生长（学生 → 学习委员 → 助教）、按投入方式分层管理、入口即筛选、以小班维持自持；由 context/qtclass/brochure/public.md 草稿 4-7 沉淀，注册进 `myst.yml` toc
 - qtclass/product.md：产品定位（AI 原生的产教融合众包生态）、目标用户、三级火箭功能架构（site/lite/studio）、AI 原生创新点——CEO办公室 2026-11-13 讨论定稿，注册进 `myst.yml` toc
 - 新增 intro/converge-to-tech-productivity.md：立旗（2026-11-02）——所有岗位收敛到技术的生产力水平，从内到外客户收敛向我们的水平；要什么/为什么两节，机制细节归洞察库
 
